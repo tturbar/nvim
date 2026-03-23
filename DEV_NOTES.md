@@ -14,3 +14,7 @@ Personal development log — notes, findings, and ongoing work.
 ## 2026-03-23
 - Tested build on clean environment
 - Fixed minor edge case in input handling
+
+## 2026-03-23
+- Documented config options
+- Consolidated duplicate helper functions
